@@ -1,0 +1,7 @@
+{
+  "testFiles": "**/*.feature",
+  "baseUrl": "https://groceries.asda.com/",
+  "watchForFileChanges": false,
+  "viewportWidth": 1366,
+  "viewportHeight": 768
+}
